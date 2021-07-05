@@ -2,13 +2,15 @@
   <img width="160em" src="/README-logo.png" alt="VR Tracker logo">
 </p>
 
-<h1 align="center">
+<h3 align="center">
   Roblox VR Issue Tracker
-</h1>
+</h3>
 
 <p align="center">
   Tracking the pitfalls, bugs and quirks of Roblox VR for developers.
 </p>
+
+-----
 
 ## Why track VR issues here?
 Roblox VR is notoriously undermaintained - there are a lot of common pitfalls and gotchas which can be hard to navigate as a newer developer. This repository aims to document all of these pitfalls to help you learn and work around the many issues of Roblox VR, such as broken bindings, core UI quirks, and instances which don't function, render correctly, or crash your game.
