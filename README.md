@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img width="128em" src="/README-logo.png" alt="VR Tracker logo">
+  <img width="160em" src="/README-logo.png" alt="VR Tracker logo">
 </p>
 
 <h1 align="center">
